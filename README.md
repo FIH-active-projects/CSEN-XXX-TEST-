@@ -61,3 +61,5 @@ Unit tests cover the reducer, selectors, persistence and utilities; component te
 ## CI
 
 `.github/workflows/ci.yml` runs lint, type-check, tests and the production build on every push to `main` and on pull requests.
+
+<!-- FIH checks test -->
